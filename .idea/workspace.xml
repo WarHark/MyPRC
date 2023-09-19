@@ -169,7 +169,7 @@
       <workItem from="1694759674982" duration="3534000" />
       <workItem from="1694763269372" duration="1932000" />
       <workItem from="1694765238493" duration="14138000" />
-      <workItem from="1695089473254" duration="10826000" />
+      <workItem from="1695089473254" duration="11337000" />
     </task>
     <task id="LOCAL-00001" summary="增加netty通信">
       <created>1695112377812</created>
@@ -178,11 +178,54 @@
       <option name="project" value="LOCAL" />
       <updated>1695112377813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加netty通信">
+      <created>1695113029034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695113029034</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加netty通信" />
@@ -193,6 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1694764970978" />
+    <state x="552" y="178" key="#Menus_and_Toolbars" timestamp="1695113093902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1695113093902" />
     <state x="552" y="178" key="#Notifications" timestamp="1694764171885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,10 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="696" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1694763103025" />
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1695112990880">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1695113269169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1695112990880" />
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1695113269169" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1694765274381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -259,6 +306,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1694776929532" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1695113257312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1695113257312" />
     <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1694782303579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
